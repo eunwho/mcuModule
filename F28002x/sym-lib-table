@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "F280041CPMS")(type "KiCad")(uri "${KIPRJMOD}/lib/F280041CPMS.kicad_sym")(options "")(descr ""))
+)
